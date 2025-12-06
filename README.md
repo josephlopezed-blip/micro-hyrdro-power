@@ -1,1 +1,1 @@
-# micro-hyrdro-power
+# Micro Hydro Power 
